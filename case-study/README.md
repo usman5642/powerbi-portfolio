@@ -10,13 +10,3 @@ A fast-moving-consumer-goods sales analysis structured as a set of answered busi
 - Dedicated **tooltip pages** for drill context
 - Waterfall, stacked-area, and decomposition-style breakdowns
 
-## Files
-Add your shareable file here:
-
-```
-case-study/
-  BAT-Case-Study.pbix        <- your non-NDA .pbix
-  screenshots/               <- exported dashboard images
-```
-
-> This project uses a public case-study dataset, so the .pbix and screenshots can be shared in full.
