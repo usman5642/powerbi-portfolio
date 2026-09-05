@@ -98,6 +98,6 @@ Included in this repo under `/practice`.
 
 ## About me
 
-Senior Business Intelligence Analyst with four years turning cross-functional data into decisions, now completing a Master of Data Science and moving toward data science / analytics roles. Full CV and machine-learning projects available on request.
+Senior Business Intelligence Analyst with five years turning cross-functional data into decisions, now completing a Master of Data Science and moving toward data science / analytics roles. Full CV and machine-learning projects available on request.
 
 **Contact:** mohammadusmanbashir41@gmail.com · [LinkedIn](https://linkedin.com/in/usmanbashir) · [GitHub](https://github.com/usman5642)
