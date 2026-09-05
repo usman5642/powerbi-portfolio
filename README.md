@@ -1,7 +1,4 @@
-# powerbi-portfolio
-Power BI and BI dashboard portfolio across BPO, retail, and operations.
-
-# Mohammad Usman Bashir — Power BI & Data Analytics Portfolio
+# Mohammad Usman Bashir — Power BI and Data Analytics Portfolio
 
 **Data Scientist | Business Intelligence · Machine Learning · NLP**
 Kuala Lumpur, Malaysia · [GitHub](https://github.com/usman5642) · [LinkedIn](https://linkedin.com/in/usmanbashir) · mohammadusmanbashir41@gmail.com
