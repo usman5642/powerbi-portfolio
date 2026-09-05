@@ -1,4 +1,4 @@
-# Mohammad Usman Bashir — Power BI and Data Analytics Portfolio
+# Mohammad Usman Bashir — Power BI & Data Analytics Portfolio
 
 **Data Scientist | Business Intelligence · Machine Learning · NLP**
 Kuala Lumpur, Malaysia · [GitHub](https://github.com/usman5642) · [LinkedIn](https://linkedin.com/in/usmanbashir) · mohammadusmanbashir41@gmail.com
@@ -87,8 +87,8 @@ Included in this repo under `/practice`.
 
 ```
 /featured        Write-ups of flagship dashboards (method + outcome)
-/case-study      FMCG Top-N sales analysis — shareable .pbix + screenshots
-/practice        DAX practice series — shareable .pbix files
+/case-study      FMCG Top-N sales analysis, shareable .pbix + screenshots
+/practice        Written summary of the DAX practice skills
 /screenshots     Sanitised / synthetic-data screenshots (no client data)
 ```
 
