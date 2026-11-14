@@ -11,6 +11,23 @@ A portfolio of Power BI reporting and analytics built over four years as a Busin
 
 ---
 
+## Public-data Atlas dashboards
+
+I built four Power BI reports with downloadable PBIX files, prepared datasets, documentation and report previews. Each project explains its data preparation, measures, validation and limitations.
+
+| Project | Focus | Key skills |
+|---|---|---|
+| [Complaint Atlas](complaint-atlas/) | Mortgage complaints and company responses | Power Query, denominator design, date analysis |
+| [Service Atlas](service-atlas/) | Incident resolution and rework | Event-log preparation, median/P90, decomposition |
+| [Workforce Atlas](workforce-atlas/) | Workforce composition and pay | Weighted measures, coverage, model design |
+| [Learning Atlas](learning-atlas/) | Student engagement and cohort outcomes | Composite keys, cohort analysis, statistical interpretation |
+
+[Download the complete release and original source snapshots](https://github.com/usman5642/powerbi-portfolio/releases/tag/atlas-v1.0.0) · [Source attribution](ATLAS_SOURCES.md)
+
+The reports use public data. Their findings are descriptive; they are not client deployments or measured business improvements. The individual project pages document what was tested and the remaining Desktop-refresh limitation.
+
+---
+
 ## Featured projects
 
 ### BPO Multi-Line Workforce Management & QA Dashboard
@@ -101,3 +118,4 @@ Included in this repo under `/practice`.
 Senior Business Intelligence Analyst with five years turning cross-functional data into decisions, now completing a Master of Data Science and moving toward data science / analytics roles. Full CV and machine-learning projects available on request.
 
 **Contact:** mohammadusmanbashir41@gmail.com · [LinkedIn](https://linkedin.com/in/usmanbashir) · [GitHub](https://github.com/usman5642)
+
